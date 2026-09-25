@@ -14,4 +14,3 @@ import seaborn as sns
 sns.histplot(df.msrp)
 plt.show()
 
-
